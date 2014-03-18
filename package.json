@@ -49,6 +49,6 @@
     "crypto": "0.0.3",
     "gravatar": "~1.0.6",
     "debug": "~0.7.3",
-    "ssh-keypair": "~1.0.0"
+    "ssh-keypair": "angelyordanov/ssh-keypair#095d4b666cbeaaca12f48bc8f1f83becc8202ff4"
   }
 }
